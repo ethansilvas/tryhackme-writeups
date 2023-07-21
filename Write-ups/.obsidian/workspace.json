@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "c95d29145734311f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe10765730c06c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cce3d6bd5d4df18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Offensive Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc9636cbccbe7680",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26008c97bac4de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b44222cfcd75de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f00465c76b804b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbc0295d93a4a911",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2862586ce8e62a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "059b1ecf3dc45376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67afc7667ff20764",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro to Offensive Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "856281fd10e5e78c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intro to Offensive Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "878122c9ad47f59c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "277ee6cac53f1a8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intro to Offensive Security.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7cce3d6bd5d4df18",
+  "lastOpenFiles": [
+    "Pasted image 20230720212247.png",
+    "Intro to Offensive Security.md",
+    "Pasted image 20230720213108.png",
+    "Pasted image 20230720212802.png",
+    "TryHackMe"
+  ]
+}
