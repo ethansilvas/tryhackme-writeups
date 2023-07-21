@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cce3d6bd5d4df18",
+  "active": "62b44222cfcd75de",
   "lastOpenFiles": [
-    "Pasted image 20230720212247.png",
+    "Images/Pasted image 20230720212247.png",
     "Intro to Offensive Security.md",
-    "Pasted image 20230720213108.png",
-    "Pasted image 20230720212802.png",
+    "Images",
+    "Images/Pasted image 20230720213108.png",
+    "Images/Pasted image 20230720212802.png",
     "TryHackMe"
   ]
 }
