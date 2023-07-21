@@ -11,7 +11,7 @@ Hack your first website (legally in a safe environment) and experience an ethica
     monitor infrastructure 
     track down cyber criminals
 
-![[Images/Pasted image 20230720212247.png]]
+![](Images/Pasted%20image%2020230720212247.png)
     Answer: Offensive Security
 
 ## Task 2 - Hacking your first machine
@@ -27,10 +27,10 @@ gobuster -u http://fakebank.com -w wordlist.txt dir
 -u = website to scan 
 -w = list of words to iterate through to find hidden pages 
 
-![[Images/Pasted image 20230720212802.png]]
+![](Images/Pasted%20image%2020230720212802.png)
 
 visiting the found bank-transfer page
-![[Images/Pasted image 20230720213108.png]]
+![](Images/Pasted%20image%2020230720213108.png)
 
 as an ethical hacker, you would (with permission) find vulnerabilities in the app and report them to the bank
 
