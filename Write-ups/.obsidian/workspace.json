@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2862586ce8e62a20",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62b44222cfcd75de",
+  "active": "7cce3d6bd5d4df18",
   "lastOpenFiles": [
     "Images/Pasted image 20230720212247.png",
     "Intro to Offensive Security.md",

@@ -29,7 +29,8 @@ gobuster -u http://fakebank.com -w wordlist.txt dir
 
 ![](Images/Pasted%20image%2020230720212802.png)
 
-visiting the found bank-transfer page
+visiting the found bank-transfer page:
+
 ![](Images/Pasted%20image%2020230720213108.png)
 
 as an ethical hacker, you would (with permission) find vulnerabilities in the app and report them to the bank
