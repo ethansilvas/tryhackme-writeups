@@ -73,3 +73,34 @@ examples of cryptographic failure:
     - using default or weak keys for cryptographic functions 
 
 ## Practical Example of Web Application Security
+
+task will investigate website that uses Insecure Direct Object References (IDOR)
+    broken access control category 
+        attacker can access info and perform actions not available for them 
+
+example case where site accepts user input to retrieve objects 
+    files, data, docs 
+    numbered sequentially 
+        IMG_1003.JPG
+    could guess that there is IMG_1002 and IMG_1004 
+        site should not give us access to these even if we guess name
+
+IDOR can occur if too much trust is put into input data 
+    no validation that user has permission to access data 
+
+can be applied to urls for user profiles: 
+    `https://store.tryhackme.thm/customers/user?id=16`
+
+site was hacked to mess up build shipments by sending them to incorrect assemblies 
+
+![](Images/Pasted%20image%2020230726200438.png)
+
+viewing the your activity tab shows that the url could possibly be open to IDOR 
+
+![](Images/Pasted%20image%2020230726200508.png)
+
+you are able to input different user_id arguments into url, and doing so revealed that employee 9's account was stolen to make the malicious changes to the planned shipments 
+
+![](Images/Pasted%20image%2020230726200618.png)
+
+accessing this account and reverting each of the malicious changes successfully undid the attackers actions, and now the security team can focus on further preventative measures 
