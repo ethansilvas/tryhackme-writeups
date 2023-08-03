@@ -12,4 +12,30 @@ all of your devices with an OS hold lots of personal data that you don't want to
 
 ![](Images/Pasted%20image%2020230802175330.png)
 
+## Task 2 - Common Examples of OS Security
+
+Three weaknesses targeted by threat actors: 
+    1. Authentication and weak passwords
+    2. Weak file permissions
+    3. Malicious programs
+
+### Authentication and Weak Passwords 
+
+authentication through something you know, have, or are 
+
+weak passwords that don't have unique characters, aren't of sufficient length, or contain dictionary words are weak passwords that are vulnerable to attacks such as brute forces 
+
+### Weak File Permissions
+
+principle of least privilege 
+
+using OS tools like Linux permission groups and chmod are important to ensure that files and folders are accessible only to those who need to see or use them 
+
+### Access to Malicious Programs 
+
+attacks like trojan horses will give root access to your device 
+
+other attacks like ransomware would encrypt all of your data 
+
+![](Images/Pasted%20image%2020230802184703.png)
 
