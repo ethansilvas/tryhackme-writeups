@@ -39,3 +39,39 @@ other attacks like ransomware would encrypt all of your data
 
 ![](Images/Pasted%20image%2020230802184703.png)
 
+## Task 3 - Practical Example of OS Security
+
+discover a username and guess the password to gain admin or root access 
+
+**Scenario** - We were hired to check security of company and when we visited the office we noticed a sticky note with "sammie" and "dragon" on it. 
+
+First lets see if those credentials work with the target machine **10.10.246.107** 
+
+![](Images/Pasted%20image%2020230802190507.png)
+
+After entering "dragon" as the password it seems to have worked, and I confirmed with `whoami`: 
+
+![](Images/Pasted%20image%2020230802190554.png)
+
+Next, using the `cat` and `ls` commands I view some of the info available to potential attackers: 
+
+![](Images/Pasted%20image%2020230802190742.png)
+
+We know of two other users who also have a disregard for cybersecurity. Now I will try to brute force access to the user "johnny". 
+
+Using the list of the most commonly used passwords, I tried to guess Johnny's password and was successful: 
+
+![](Images/Pasted%20image%2020230802191311.png)
+
+Viewing Johnny's history we can see that he accidentally typed out the password to the root account:
+
+![](Images/Pasted%20image%2020230802191524.png)
+
+Using this password we gain access to the root account: 
+
+![](Images/Pasted%20image%2020230802191612.png)
+
+![](Images/Pasted%20image%2020230802191642.png)
+
+
+
